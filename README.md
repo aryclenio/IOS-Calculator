@@ -8,5 +8,6 @@ The IOS Calculator may target iOS 9.0 and Android 4.1 or newer. You may use Wind
 ## 🎉 Building this project
 
 Use the following commands on Node.js to run this project on emulator:
-#react-native run-android
-#react-native run-ios
+
+# react-native run-android
+# react-native run-ios
